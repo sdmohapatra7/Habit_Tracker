@@ -1,7 +1,9 @@
 
+require('dotenv').config();
 const express = require('express');
 const app = express();
 const port = 5100;
+// const path = require('path');
 
 const URL = require('./config/mongoose');
 

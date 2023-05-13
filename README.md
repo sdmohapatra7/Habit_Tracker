@@ -16,5 +16,7 @@
       
       Web Look Like:-
       ![Screenshot (7)](https://github.com/sdmohapatra7/Habit_Tracker/assets/121569281/78273573-0015-46ab-b9e0-b3a9752fa731)
+      ![Screenshot (8)](https://github.com/sdmohapatra7/Habit_Tracker/assets/121569281/19a320cc-4720-4e41-9973-4cf73e7bd040)
+      
       
       

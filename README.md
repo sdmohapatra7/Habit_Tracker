@@ -14,3 +14,7 @@
       A user can toggle between the three (above mentioned) statuses of a habit i.e. I can change today’s status as done, not done or none anytime.
       Also I should be able to change any of the previous days status i.e. I can change the status of a habit for yesterday, day before yesterday or any previous 6 days as well
       
+      Web Look Like:-
+      ![Screenshot (7)](https://github.com/sdmohapatra7/Habit_Tracker/assets/121569281/78273573-0015-46ab-b9e0-b3a9752fa731)
+      
+      
